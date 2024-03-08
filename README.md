@@ -4,4 +4,4 @@ In this small project, I explore the socioeconomic landscape of the United State
 The project begins with the meticulous cleaning and preparation of the raw census data, ensuring its accuracy and reliability for subsequent analysis. Leveraging data cleaning techniques, we address missing values, outliers, and inconsistencies to produce a refined dataset ready for visualization.
 
 With the cleaned data in hand, we embark on the visualization phase, where we employ mapping techniques to depict the geographical distribution of median income across the nation. 
-[https://public.tableau.com/app/profile/luis.g.mez.jordana/viz/Censusmaps/Dashboard1] [Maps]
+ [Maps] [https://public.tableau.com/app/profile/luis.g.mez.jordana/viz/Censusmaps/Dashboard1]
